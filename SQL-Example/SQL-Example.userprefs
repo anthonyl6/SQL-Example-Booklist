@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.SQL-Example PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8FAFEFC4-676C-4148-A901-F7FD857BD6CC">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.SQL-Example>
-  <MonoDevelop.Ide.Workbench ActiveDocument="SQL-Example/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQL-Example/Main.storyboard">
     <Files>
       <File FileName="SQL-Example/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="SQL-Example/Main.storyboard" />
