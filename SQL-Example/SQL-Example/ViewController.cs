@@ -32,7 +32,7 @@ namespace SQLExample
             if (DatabaseHelper.Insert(ref newBook, db_path))
                 
                 //Console.WriteLine("SUCCESS");
-                NavigationController.PopToRootViewController(true); //Goes back to the list
+                NavigationController.PopToRootViewController(true); //Goes back to the list 
             else
                 Console.WriteLine("FAILURE");
         }
